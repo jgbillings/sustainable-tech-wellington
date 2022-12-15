@@ -18,3 +18,16 @@ education, collaboration and advocacy, we strive to foster a community in Wellin
 passionate about protecting our environment and creating postive change. We
 believe that each of us has the power to make a difference and that together,
 we can create a world that is healthier and more equitable for all.
+
+## Objectives 
+
+1. Increase awareness of climate change and its effects on our environment.
+2. Educate members on sustainable practices and how to reduce their carbon footprint.
+3. Promote and organize events that encourage members to take action to reduce their carbon emissions.
+4. Develop a network of members that can collaborate and share resources to further their efforts.
+6. Connect members with opportunities to volunteer in their communities on climate related initiatives.
+
+## Notes 
+
+Good tech, bad tech.  Technology solves many enivornment issues, while creating others.  The Tech Sector is a community and we would like to gather together to socialise, share info, and represent ourselves at other climate action events
+
